@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="robot.svg" alt="Animated waving robot" width="300"/>
+<img src="ascii-robot.svg" alt="Animated ASCII robot waving" width="320"/>
 
 # Hi, I'm YOUR NAME 👋
 
